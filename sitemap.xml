@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.myvog.lk/</loc>
+  <lastmod>2020-01-06T05:34:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/index.html</loc>
+  <lastmod>2020-01-06T05:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/about.html</loc>
+  <lastmod>2020-01-06T05:32:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/articles.html</loc>
+  <lastmod>2020-01-06T05:33:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/video.html</loc>
+  <lastmod>2020-01-06T05:35:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/gallery.html</loc>
+  <lastmod>2020-01-06T05:34:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/contact.html</loc>
+  <lastmod>2020-01-06T05:37:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/article_1.html</loc>
+  <lastmod>2020-01-06T05:32:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/article_2.html</loc>
+  <lastmod>2020-01-06T05:32:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/article_3.html</loc>
+  <lastmod>2020-01-06T05:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.myvog.lk/article_4.html</loc>
+  <lastmod>2020-01-06T05:33:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
